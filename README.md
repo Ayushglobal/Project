@@ -1,4 +1,4 @@
-# Multiningual_chatbot-using-the-Maxtral-llm-model
+# Multiningual_chatbot-using-the-Mixtral-llm-model
 # 🌍 Multilingual Academic Chatbot
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
